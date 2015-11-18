@@ -9,10 +9,11 @@ def readSoup(url):
         url = "http://" + url
     request = urllib2.Request(url)
     response = urllib2.urlopen(request)
-    soup = BeautifulSoup(response, 'lxml')
+    soup = BeautifulSoup(response, 'html.parser')
     return soup
 
-def saveLog(url):
+def saveLog(url, note):
 	f = codecs.open("log.txt", "a", "utf-8")
 	time = datetime.datetime.now()
-	f.write(time+"\t"+url)
+	f.write(time+"\t"+unicode(url)+"\n"+unicode(note)+"\n")
+	f.close

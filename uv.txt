@@ -1,0 +1,2964 @@
+<!DOCTYPE html>
+<html lang="vi">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <title>
+   Thông tin ứng viên Phạm Đăng Diện- mã số: bp1n
+  </title>
+  <meta content="Thông tin đầy đủ của ứng viên Phạm Đăng Diện: ngày sinh, email phamdangdien.53ckct@gmail.com, điện thoại: 01674903404, lý lịch, cv, trường học... Phạm Đăng Diện Kỹ thuật. Thong tin day du cua ung vien Pham Dang Dien: ngay sinh, email phamdangdien.53ckct@gmail.com, dien thoai: 01674903404, ly lich, cv, truong hoc... Pham Dang Dien Ky thuat." name="description">
+   <meta content="Thông tin ứng viên Phạm Đăng Diện, ngày sinh, email, điện thoại, lý lịch, cv" name="keywords">
+    <meta content="index,follow" name="robots"/>
+    <link href="http://s.tainhaccho.vn/css/newcss/vl-tv.css" rel="stylesheet" type="text/css"/>
+    <meta content="True" name="HandheldFriendly"/>
+    <meta content="width=device-width,initial-scale=1.0,user-scalable=1" name="viewport"/>
+   </meta>
+  </meta>
+ </head>
+ <body>
+  <div id="header">
+   <div id="headTop">
+    <a class="showmenunav" href="#" id="shownav">
+    </a>
+    <div class="logo">
+     <a href="/">
+     </a>
+    </div>
+    <div class="menuTop" id="horizontalTab" role="tablist" style="display:block;width:100%;margin:0;">
+     <ul class="resp-tabs-list">
+      <li aria-controls="tab_item-0" class="resp-tab-item resp-tab-active" role="tab">
+       <a href="/">
+        Trang chủ
+       </a>
+      </li>
+      <li aria-controls="tab_item-1" class="resp-tab-item" role="tab">
+       <a href="/timkiem/">
+        Tìm việc làm
+       </a>
+      </li>
+      <li aria-controls="tab_item-2" class="resp-tab-item" role="tab">
+       <a href="/timungvien/">
+        Tìm ứng viên
+       </a>
+      </li>
+      <li aria-controls="tab_item-3" class="resp-tab-item" role="tab">
+       <a href="/tuyendung/">
+        Nhà tuyển dụng
+       </a>
+      </li>
+     </ul>
+     <div class="resp-tabs-container">
+      <h2 aria-controls="tab_item-0" class="resp-accordion resp-tab-active" role="tab">
+       <span class="resp-arrow">
+       </span>
+       <a href="/">
+        Trang chủ
+       </a>
+      </h2>
+      <div aria-labelledby="tab_item-0" class="resp-tab-content resp-tab-content-active" style="display:block">
+       <ul>
+        <li>
+         <a href="/quanlytuyendung/">
+          QUẢN LÝ TUYỂN DỤNG
+         </a>
+        </li>
+        <li>
+         <a href="/hanoi/">
+          Việc làm tại Hà Nội
+         </a>
+        </li>
+        <li>
+         <a href="/hochiminh/">
+          Việc làm tại Hồ Chí Minh
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <iframe class="dangky-nhap" src="/user/">
+    </iframe>
+   </div>
+  </div>
+  <div class="space5px">
+  </div>
+  <div class="center">
+   <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+   </script>
+   <!-- vieclam.tv 970x250 -->
+   <ins class="adsbygoogle" data-ad-client="ca-pub-2988304919300319" data-ad-slot="5437639619" style="display:inline-block;width:970px;height:250px">
+   </ins>
+   <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+   </script>
+  </div>
+  <div class="space5px">
+  </div>
+  <div id="main-content">
+   <div id="tab-search">
+    <div class="">
+     <ul id="tabsearch">
+      <li>
+       <a href="/" id="current" name="#tabs1">
+        Tìm ứng viên nhanh
+       </a>
+      </li>
+      <li>
+       <a href="/" name="#tabs2">
+        Tìm ứng viên theo ngành nghề
+       </a>
+      </li>
+      <li>
+       <a href="/" name="#tabs3">
+        Tìm ứng viên theo địa điểm
+       </a>
+      </li>
+      <li>
+       <a href="/" name="#tabs4">
+        Top ứng viên
+       </a>
+      </li>
+     </ul>
+     <div id="content-search">
+      <div id="tabs1" style="display:block">
+       <form action="/timungvien/" method="POST" name="searchForm">
+        <span class="custom-dropdown custom-dropdown--white">
+         <select class="custom-dropdown__select custom-dropdown__select--white" name="nganhnghe">
+          <option value="">
+           --Tất cả ngành nghề--
+          </option>
+          <option value="1">
+           Bán hàng
+          </option>
+          <option value="31">
+           Báo chí-Truyền hình
+          </option>
+          <option value="62">
+           Bảo hiểm
+          </option>
+          <option value="2">
+           Bảo vệ
+          </option>
+          <option value="3">
+           Biên- Phiên dịch
+          </option>
+          <option value="57">
+           Bưu chính
+          </option>
+          <option value="67">
+           Chứng khoán- Vàng
+          </option>
+          <option value="4">
+           Cơ khí- Chế tạo
+          </option>
+          <option value="64">
+           Công nghệ cao
+          </option>
+          <option value="48">
+           Công nghiệp
+          </option>
+          <option value="58">
+           Dầu khí- Hóa chất
+          </option>
+          <option value="68">
+           Đầu tư
+          </option>
+          <option value="5">
+           Dệt may- Da giày
+          </option>
+          <option value="6">
+           Dịch vụ
+          </option>
+          <option value="29">
+           Điện- Điện tử
+          </option>
+          <option value="41">
+           Điện tử viễn thông
+          </option>
+          <option value="69">
+           Đi nước ngoài
+          </option>
+          <option value="32">
+           Du lịch
+          </option>
+          <option value="60">
+           Game
+          </option>
+          <option value="7">
+           Giáo dục- Đào tạo
+          </option>
+          <option value="63">
+           Hàng gia dụng
+          </option>
+          <option value="65">
+           Hàng hải
+          </option>
+          <option value="59">
+           Hàng không
+          </option>
+          <option value="8">
+           Hành chính- Văn phòng
+          </option>
+          <option value="55">
+           Hoạch định-Dự án
+          </option>
+          <option value="51">
+           Hoá học- Sinh học
+          </option>
+          <option value="37">
+           In ấn- Xuất bản
+          </option>
+          <option value="9">
+           IT phần cứng/ mạng
+          </option>
+          <option value="10">
+           IT phần mềm
+          </option>
+          <option value="11">
+           KD bất động sản
+          </option>
+          <option value="12">
+           Kế toán- Kiểm toán
+          </option>
+          <option value="28">
+           Khách sạn- Nhà hàng
+          </option>
+          <option value="13">
+           Kiến trúc- TK nội thất
+          </option>
+          <option selected="selected" value="14">
+           Kỹ thuật
+          </option>
+          <option value="45">
+           Kỹ thuật ứng dụng
+          </option>
+          <option value="15">
+           Làm bán thời gian
+          </option>
+          <option value="16">
+           Lao động phổ thông
+          </option>
+          <option value="17">
+           Marketing- PR
+          </option>
+          <option value="50">
+           Mỹ phẩm-Trang sức
+          </option>
+          <option value="46">
+           Ngân hàng
+          </option>
+          <option value="54">
+           Nghệ thuật- Điện ảnh
+          </option>
+          <option value="53">
+           Người giúp việc
+          </option>
+          <option value="18">
+           Nhân sự
+          </option>
+          <option value="19">
+           Nhân viên kinh doanh
+          </option>
+          <option value="40">
+           Nông- Lâm- Ngư nghiệp
+          </option>
+          <option value="66">
+           NV trông quán Internet
+          </option>
+          <option value="30">
+           Ô tô- Xe máy
+          </option>
+          <option value="47">
+           Pháp lý
+          </option>
+          <option value="49">
+           Promotion Girl- PG
+          </option>
+          <option value="56">
+           Quan hệ đối ngoại
+          </option>
+          <option value="20">
+           Quản trị kinh doanh
+          </option>
+          <option value="21">
+           Sinh viên làm thêm
+          </option>
+          <option value="36">
+           Thiết kế đồ hoạ web
+          </option>
+          <option value="22">
+           Thiết kế- Mỹ thuật
+          </option>
+          <option value="39">
+           Thời trang
+          </option>
+          <option value="61">
+           Thủ công mỹ nghệ
+          </option>
+          <option value="34">
+           Thực phẩm- Đồ uống
+          </option>
+          <option value="44">
+           Thực tập
+          </option>
+          <option value="33">
+           Thư ký- Trợ lý
+          </option>
+          <option value="38">
+           Thương mại điện tử
+          </option>
+          <option value="43">
+           Tiếp thị- Quảng cáo
+          </option>
+          <option value="52">
+           Tổ chức sự kiện- Quà tặng
+          </option>
+          <option value="23">
+           Tư vấn
+          </option>
+          <option value="24">
+           Vận tải- Lái xe
+          </option>
+          <option value="42">
+           Vật tư- Thiết bị
+          </option>
+          <option value="35">
+           Khác
+          </option>
+          <option value="25">
+           Xây dựng
+          </option>
+          <option value="26">
+           Xuất nhập khẩu
+          </option>
+          <option value="27">
+           Y tế- Dược
+          </option>
+         </select>
+        </span>
+        <span class="custom-dropdown custom-dropdown--white">
+         <select class="custom-dropdown__select custom-dropdown__select--white" name="diadiem">
+          <option value="">
+           --Tất cả địa điểm--
+          </option>
+          <option value="hanoi">
+           Hà Nội
+          </option>
+          <option selected="selected" value="hochiminh">
+           Hồ Chí Minh
+          </option>
+          <option value="angiang">
+           An Giang
+          </option>
+          <option value="bacgiang">
+           Bắc Giang
+          </option>
+          <option value="backan">
+           Bắc Kạn
+          </option>
+          <option value="baclieu">
+           Bạc Liêu
+          </option>
+          <option value="bacninh">
+           Bắc Ninh
+          </option>
+          <option value="bariavungtau">
+           Bà Rịa- Vũng Tàu
+          </option>
+          <option value="bentre">
+           Bến Tre
+          </option>
+          <option value="binhdinh">
+           Bình Định
+          </option>
+          <option value="binhduong">
+           Bình Dương
+          </option>
+          <option value="binhphuoc">
+           Bình Phước
+          </option>
+          <option value="binhthuan">
+           Bình Thuận
+          </option>
+          <option value="camau">
+           Cà Mau
+          </option>
+          <option value="cantho">
+           Cần Thơ
+          </option>
+          <option value="caobang">
+           Cao Bằng
+          </option>
+          <option value="daklak">
+           Đắk Lắk
+          </option>
+          <option value="daknong">
+           Đắk Nông
+          </option>
+          <option value="danang">
+           Đà Nẵng
+          </option>
+          <option value="dienbien">
+           Điện Biên
+          </option>
+          <option value="dongnai">
+           Đồng Nai
+          </option>
+          <option value="dongthap">
+           Đồng Tháp
+          </option>
+          <option value="gialai">
+           Gia Lai
+          </option>
+          <option value="hagiang">
+           Hà Giang
+          </option>
+          <option value="haiduong">
+           Hải Dương
+          </option>
+          <option value="haiphong">
+           Hải Phòng
+          </option>
+          <option value="hanam">
+           Hà Nam
+          </option>
+          <option value="hatinh">
+           Hà Tĩnh
+          </option>
+          <option value="haugiang">
+           Hậu Giang
+          </option>
+          <option value="hoabinh">
+           Hòa Bình
+          </option>
+          <option value="hungyen">
+           Hưng Yên
+          </option>
+          <option value="khac">
+           Khác
+          </option>
+          <option value="khanhhoa">
+           Khánh Hòa
+          </option>
+          <option value="kiengiang">
+           Kiên Giang
+          </option>
+          <option value="kontum">
+           Kon Tum
+          </option>
+          <option value="laichau">
+           Lai Châu
+          </option>
+          <option value="lamdong">
+           Lâm Đồng
+          </option>
+          <option value="langson">
+           Lạng Sơn
+          </option>
+          <option value="laocai">
+           Lào Cai
+          </option>
+          <option value="longan">
+           Long An
+          </option>
+          <option value="namdinh">
+           Nam Định
+          </option>
+          <option value="nghean">
+           Nghệ An
+          </option>
+          <option value="ninhbinh">
+           Ninh Bình
+          </option>
+          <option value="ninhthuan">
+           Ninh Thuận
+          </option>
+          <option value="nuocngoai">
+           Nước ngoài
+          </option>
+          <option value="phutho">
+           Phú Thọ
+          </option>
+          <option value="phuyen">
+           Phú Yên
+          </option>
+          <option value="quangbinh">
+           Quảng Bình
+          </option>
+          <option value="quangnam">
+           Quảng Nam
+          </option>
+          <option value="quangngai">
+           Quảng Ngãi
+          </option>
+          <option value="quangninh">
+           Quảng Ninh
+          </option>
+          <option value="quangtri">
+           Quảng Trị
+          </option>
+          <option value="soctrang">
+           Sóc Trăng
+          </option>
+          <option value="sonla">
+           Sơn La
+          </option>
+          <option value="tayninh">
+           Tây Ninh
+          </option>
+          <option value="thaibinh">
+           Thái Bình
+          </option>
+          <option value="thainguyen">
+           Thái Nguyên
+          </option>
+          <option value="thanhhoa">
+           Thanh Hóa
+          </option>
+          <option value="thuathienhue">
+           Thừa Thiên Huế
+          </option>
+          <option value="tiengiang">
+           Tiền Giang
+          </option>
+          <option value="travinh">
+           Trà Vinh
+          </option>
+          <option value="tuyenquang">
+           Tuyên Quang
+          </option>
+          <option value="vinhlong">
+           Vĩnh Long
+          </option>
+          <option value="vinhphuc">
+           Vĩnh Phúc
+          </option>
+          <option value="yenbai">
+           Yên Bái
+          </option>
+         </select>
+        </span>
+        <span class="custom-dropdown custom-dropdown--white">
+         <select class="custom-dropdown__select custom-dropdown__select--white" name="mucluong">
+          <option selected="selected" value="">
+           --Tất cả mức lương--
+          </option>
+          <option value="0">
+           Thỏa thuận
+          </option>
+          <option value="1">
+           1- 3 triệu
+          </option>
+          <option value="2">
+           3- 5 triệu
+          </option>
+          <option value="3">
+           5- 7 triệu
+          </option>
+          <option value="4">
+           7- 10 triệu
+          </option>
+          <option value="5">
+           10- 15 triệu
+          </option>
+          <option value="6">
+           15- 20 triệu
+          </option>
+          <option value="7">
+           20- 30 triệu
+          </option>
+          <option value="8">
+           Trên 30 triệu
+          </option>
+         </select>
+        </span>
+        <span class="custom-dropdown custom-dropdown--white">
+         <select class="custom-dropdown__select custom-dropdown__select--white" name="kinhnghiem">
+          <option selected="selected" value="">
+           --Tất cả kinh nghiệm--
+          </option>
+          <option value="-1">
+           Chưa có K.N
+          </option>
+          <option value="0">
+           Dưới 1 năm
+          </option>
+          <option value="1">
+           1 năm
+          </option>
+          <option value="2">
+           2 năm
+          </option>
+          <option value="3">
+           3 năm
+          </option>
+          <option value="4">
+           4 năm
+          </option>
+          <option value="5">
+           5 năm
+          </option>
+          <option value="6">
+           Trên 5 năm
+          </option>
+         </select>
+        </span>
+        <input class="right" type="submit" value=" ">
+        </input>
+       </form>
+      </div>
+      <div id="tabs2" style="display:none">
+       <table>
+        <tr>
+         <td>
+          <a href="/ungvien/ketoankiemtoan/">
+           Kế toán- Kiểm toán
+          </a>
+          <b>
+           (13758)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/xaydung/">
+           Xây dựng
+          </a>
+          <b>
+           (8871)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/hanhchinhvanphong/">
+           Hành chính- Văn phòng
+          </a>
+          <b>
+           (8542)
+          </b>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/nhanvienkinhdoanh/">
+           Nhân viên kinh doanh
+          </a>
+          <b>
+           (7640)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/banhang/">
+           Bán hàng
+          </a>
+          <b>
+           (6057)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/diendientu/">
+           Điện- Điện tử
+          </a>
+          <b>
+           (5930)
+          </b>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/cokhichetao/">
+           Cơ khí- Chế tạo
+          </a>
+          <b>
+           (4961)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/nhansu/">
+           Nhân sự
+          </a>
+          <b>
+           (4391)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/kythuat/">
+           Kỹ thuật
+          </a>
+          <b>
+           (3519)
+          </b>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/itphanmem/">
+           IT phần mềm
+          </a>
+          <b>
+           (3303)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/itphancungmang/">
+           IT phần cứng/ mạng
+          </a>
+          <b>
+           (3249)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/yteduoc/">
+           Y tế- Dược
+          </a>
+          <b>
+           (3235)
+          </b>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/vantailaixe/">
+           Vận tải- Lái xe
+          </a>
+          <b>
+           (3113)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/khachsannhahang/">
+           Khách sạn- Nhà hàng
+          </a>
+          <b>
+           (3045)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/giaoducdaotao/">
+           Giáo dục- Đào tạo
+          </a>
+          <b>
+           (2698)
+          </b>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/thucphamdouong/">
+           Thực phẩm- Đồ uống
+          </a>
+          <b>
+           (2583)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/hoahocsinhhoc/">
+           Hoá học- Sinh học
+          </a>
+          <b>
+           (2481)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/marketingpr/">
+           Marketing- PR
+          </a>
+          <b>
+           (2213)
+          </b>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/kientructknoithat/">
+           Kiến trúc- TK nội thất
+          </a>
+          <b>
+           (2198)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/detmaydagiay/">
+           Dệt may- Da giày
+          </a>
+          <b>
+           (1840)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/quantrikinhdoanh/">
+           Quản trị kinh doanh
+          </a>
+          <b>
+           (1832)
+          </b>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/vieckhac/">
+           Khác
+          </a>
+          <b>
+           (1809)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/dichvu/">
+           Dịch vụ
+          </a>
+          <b>
+           (1783)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/bienphiendich/">
+           Biên- Phiên dịch
+          </a>
+          <b>
+           (1642)
+          </b>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/laodongphothong/">
+           Lao động phổ thông
+          </a>
+          <b>
+           (1608)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/nganhang/">
+           Ngân hàng
+          </a>
+          <b>
+           (1563)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/dientuvienthong/">
+           Điện tử viễn thông
+          </a>
+          <b>
+           (1560)
+          </b>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/lambanthoigian/">
+           Làm bán thời gian
+          </a>
+          <b>
+           (1551)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/thietkemythuat/">
+           Thiết kế- Mỹ thuật
+          </a>
+          <b>
+           (1528)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/otoxemay/">
+           Ô tô- Xe máy
+          </a>
+          <b>
+           (1453)
+          </b>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/vattuthietbi/">
+           Vật tư- Thiết bị
+          </a>
+          <b>
+           (1407)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/thukytroly/">
+           Thư ký- Trợ lý
+          </a>
+          <b>
+           (1360)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/sinhvienlamthem/">
+           Sinh viên làm thêm
+          </a>
+          <b>
+           (1143)
+          </b>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/phaply/">
+           Pháp lý
+          </a>
+          <b>
+           (1142)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/daukhihoachat/">
+           Dầu khí- Hóa chất
+          </a>
+          <b>
+           (1084)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/nonglamngunghiep/">
+           Nông- Lâm- Ngư nghiệp
+          </a>
+          <b>
+           (1073)
+          </b>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/baochitruyenhinh/">
+           Báo chí-Truyền hình
+          </a>
+          <b>
+           (1006)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/congnghiep/">
+           Công nghiệp
+          </a>
+          <b>
+           (828)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/kythuatungdung/">
+           Kỹ thuật ứng dụng
+          </a>
+          <b>
+           (815)
+          </b>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/tuvan/">
+           Tư vấn
+          </a>
+          <b>
+           (782)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/xuatnhapkhau/">
+           Xuất nhập khẩu
+          </a>
+          <b>
+           (758)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/dulich/">
+           Du lịch
+          </a>
+          <b>
+           (750)
+          </b>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/baove/">
+           Bảo vệ
+          </a>
+          <b>
+           (646)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/kdbatdongsan/">
+           KD bất động sản
+          </a>
+          <b>
+           (600)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/thietkedohoaweb/">
+           Thiết kế đồ hoạ web
+          </a>
+          <b>
+           (548)
+          </b>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/thoitrang/">
+           Thời trang
+          </a>
+          <b>
+           (372)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/tochucsukienquatang/">
+           Tổ chức sự kiện- Quà tặng
+          </a>
+          <b>
+           (346)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/hoachdinhduan/">
+           Hoạch định-Dự án
+          </a>
+          <b>
+           (315)
+          </b>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/nghethuatdienanh/">
+           Nghệ thuật- Điện ảnh
+          </a>
+          <b>
+           (280)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/inanxuatban/">
+           In ấn- Xuất bản
+          </a>
+          <b>
+           (254)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/thuongmaidientu/">
+           Thương mại điện tử
+          </a>
+          <b>
+           (243)
+          </b>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/thuctap/">
+           Thực tập
+          </a>
+          <b>
+           (238)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/hanghai/">
+           Hàng hải
+          </a>
+          <b>
+           (232)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/game/">
+           Game
+          </a>
+          <b>
+           (224)
+          </b>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/nvtrongquaninternet/">
+           NV trông quán Internet
+          </a>
+          <b>
+           (213)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/promotiongirlpg/">
+           Promotion Girl- PG
+          </a>
+          <b>
+           (182)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/tiepthiquangcao/">
+           Tiếp thị- Quảng cáo
+          </a>
+          <b>
+           (180)
+          </b>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/nguoigiupviec/">
+           Người giúp việc
+          </a>
+          <b>
+           (169)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/myphamtrangsuc/">
+           Mỹ phẩm-Trang sức
+          </a>
+          <b>
+           (144)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/buuchinh/">
+           Bưu chính
+          </a>
+          <b>
+           (143)
+          </b>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/congnghecao/">
+           Công nghệ cao
+          </a>
+          <b>
+           (116)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/baohiem/">
+           Bảo hiểm
+          </a>
+          <b>
+           (115)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/hangkhong/">
+           Hàng không
+          </a>
+          <b>
+           (108)
+          </b>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/chungkhoanvang/">
+           Chứng khoán- Vàng
+          </a>
+          <b>
+           (103)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/quanhedoingoai/">
+           Quan hệ đối ngoại
+          </a>
+          <b>
+           (89)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/dautu/">
+           Đầu tư
+          </a>
+          <b>
+           (89)
+          </b>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/hanggiadung/">
+           Hàng gia dụng
+          </a>
+          <b>
+           (52)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/thucongmynghe/">
+           Thủ công mỹ nghệ
+          </a>
+          <b>
+           (43)
+          </b>
+         </td>
+         <td>
+          <a href="/ungvien/dinuocngoai/">
+           Đi nước ngoài
+          </a>
+          <b>
+           (2)
+          </b>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div id="tabs3" style="display:none">
+       <table>
+        <tr>
+         <td>
+          <a href="/ungvien/hanoi/">
+           Hà Nội
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/hochiminh/">
+           Hồ Chí Minh
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/binhduong/">
+           Bình Dương
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/danang/">
+           Đà Nẵng
+          </a>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/dongnai/">
+           Đồng Nai
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/haiphong/">
+           Hải Phòng
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/bacninh/">
+           Bắc Ninh
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/hungyen/">
+           Hưng Yên
+          </a>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/longan/">
+           Long An
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/bariavungtau/">
+           Bà Rịa- Vũng Tàu
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/haiduong/">
+           Hải Dương
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/khac/">
+           Khác
+          </a>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/vinhphuc/">
+           Vĩnh Phúc
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/quangninh/">
+           Quảng Ninh
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/thanhhoa/">
+           Thanh Hóa
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/bacgiang/">
+           Bắc Giang
+          </a>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/khanhhoa/">
+           Khánh Hòa
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/cantho/">
+           Cần Thơ
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/phutho/">
+           Phú Thọ
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/ninhbinh/">
+           Ninh Bình
+          </a>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/lamdong/">
+           Lâm Đồng
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/hanam/">
+           Hà Nam
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/thainguyen/">
+           Thái Nguyên
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/namdinh/">
+           Nam Định
+          </a>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/hatinh/">
+           Hà Tĩnh
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/laocai/">
+           Lào Cai
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/binhdinh/">
+           Bình Định
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/tiengiang/">
+           Tiền Giang
+          </a>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/dongthap/">
+           Đồng Tháp
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/angiang/">
+           An Giang
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/tayninh/">
+           Tây Ninh
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/bentre/">
+           Bến Tre
+          </a>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/thaibinh/">
+           Thái Bình
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/quangnam/">
+           Quảng Nam
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/nghean/">
+           Nghệ An
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/vinhlong/">
+           Vĩnh Long
+          </a>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/binhphuoc/">
+           Bình Phước
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/quangngai/">
+           Quảng Ngãi
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/kiengiang/">
+           Kiên Giang
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/daklak/">
+           Đắk Lắk
+          </a>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/nuocngoai/">
+           Nước ngoài
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/baclieu/">
+           Bạc Liêu
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/binhthuan/">
+           Bình Thuận
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/sonla/">
+           Sơn La
+          </a>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/thuathienhue/">
+           Thừa Thiên Huế
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/phuyen/">
+           Phú Yên
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/hoabinh/">
+           Hòa Bình
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/gialai/">
+           Gia Lai
+          </a>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/yenbai/">
+           Yên Bái
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/langson/">
+           Lạng Sơn
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/haugiang/">
+           Hậu Giang
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/dienbien/">
+           Điện Biên
+          </a>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/tuyenquang/">
+           Tuyên Quang
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/daknong/">
+           Đắk Nông
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/camau/">
+           Cà Mau
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/quangbinh/">
+           Quảng Bình
+          </a>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/soctrang/">
+           Sóc Trăng
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/ninhthuan/">
+           Ninh Thuận
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/travinh/">
+           Trà Vinh
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/kontum/">
+           Kon Tum
+          </a>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/quangtri/">
+           Quảng Trị
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/caobang/">
+           Cao Bằng
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/hagiang/">
+           Hà Giang
+          </a>
+         </td>
+         <td>
+          <a href="/ungvien/laichau/">
+           Lai Châu
+          </a>
+         </td>
+        </tr>
+        <tr>
+         <td>
+          <a href="/ungvien/backan/">
+           Bắc Kạn
+          </a>
+         </td>
+         <td>
+         </td>
+         <td>
+         </td>
+         <td>
+         </td>
+        </tr>
+       </table>
+      </div>
+      <div id="tabs4" style="display:none">
+       <div class="box-top-congviec">
+        <div>
+         <a href="/ungvien/uv-nguyen-van-tuan-nguyenvantuanhk-gmail-com-0986669286/acxl">
+          Nguyễn Văn Tuân
+         </a>
+         <br>
+          <a href="/ungvien/nhanvienkinhdoanh/hanoi/">
+           Ứng viên Nhân viên kinh doanh tại Hà Nội
+          </a>
+         </br>
+        </div>
+        <div>
+         <a href="/ungvien/uv-nguyen-van-quang-quangnv1992-gmail-com-01663790603/bxov">
+          Nguyễn Văn Quang
+         </a>
+         <br>
+          <a href="/ungvien/nhanvienkinhdoanh/hanoi/">
+           Ứng viên Nhân viên kinh doanh tại Hà Nội
+          </a>
+         </br>
+        </div>
+        <div>
+         <a href="/ungvien/uv-nguyen-thi-thanh-van-thanhvan09-gmail-com-0949300388/aqq6">
+          Tran Thanh Tung
+         </a>
+         <br>
+          <a href="/ungvien/nganhang/hanoi/">
+           Ứng viên Ngân hàng tại Hà Nội
+          </a>
+         </br>
+        </div>
+        <div>
+         <a href="/ungvien/uv-nguyen-thi-tuong-vi-vi-nguyen-qtkd1991-gmail-com-01649662493/wo5">
+          Nguyễn Thị Tường Vi
+         </a>
+         <br>
+          <a href="/ungvien/nhanvienkinhdoanh/hochiminh/">
+           Ứng viên Nhân viên kinh doanh tại Hồ Chí Minh
+          </a>
+         </br>
+        </div>
+        <div>
+         <a href="/ungvien/uv-nguyen-van-dang-nguyenanhdang-qtdn-gmail-com-0988760016/ks8">
+          Nguyễn Xuân Đáng
+         </a>
+         <br>
+          <a href="/ungvien/cokhichetao/hanoi/">
+           Ứng viên Cơ khí- Chế tạo tại Hà Nội
+          </a>
+         </br>
+        </div>
+        <div>
+         <a href="/ungvien/uv-bui-thi-thuy-kthuy86-gmail-com-0936269595/axux">
+          Bùi Thị Thúy
+         </a>
+         <br>
+          <a href="/ungvien/ketoankiemtoan/hanoi/">
+           Ứng viên Kế toán- Kiểm toán tại Hà Nội
+          </a>
+         </br>
+        </div>
+        <div>
+         <a href="/ungvien/uv-do-van-tan-manhtan19842005-yahoo-com-0986563388/aro5">
+          Đỗ Văn Tấn
+         </a>
+         <br>
+          <a href="/ungvien/xaydung/hanoi/">
+           Ứng viên Xây dựng tại Hà Nội
+          </a>
+         </br>
+        </div>
+        <div>
+         <a href="/ungvien/uv-tran-thi-thu-hue-tranthuhue-dn-gmail-com-0933227183/ao1i">
+          Trần Thị Thu Huệ
+         </a>
+         <br>
+          <a href="/ungvien/nhanvienkinhdoanh/hochiminh/">
+           Ứng viên Nhân viên kinh doanh tại Hồ Chí Minh
+          </a>
+         </br>
+        </div>
+        <div>
+         <a href="/ungvien/uv-bui-thi-hao-buithihao-ht-gmail-com-01633656697/b0bb">
+          Bùi Thị Hảo
+         </a>
+         <br>
+          <a href="/ungvien/xaydung/hanoi/">
+           Ứng viên Xây dựng tại Hà Nội
+          </a>
+         </br>
+        </div>
+        <div>
+         <a href="/ungvien/uv-tran-thi-thu-hang-tranthuhang2202-gmail-com-0989838930/4v7">
+          Trần Thị Thu Hằng
+         </a>
+         <br>
+          <a href="/ungvien/hanhchinhvanphong/hanoi/">
+           Ứng viên Hành chính- Văn phòng tại Hà Nội
+          </a>
+         </br>
+        </div>
+        <div>
+         <a href="/ungvien/uv-do-van-dung-dungdovan87-gmail-com-0989096661/ably">
+          Đỗ Văn Dũng
+         </a>
+         <br>
+          <a href="/ungvien/nhanvienkinhdoanh/hanoi/">
+           Ứng viên Nhân viên kinh doanh tại Hà Nội
+          </a>
+         </br>
+        </div>
+        <div>
+         <a href="/ungvien/uv-do-minh-thanh-dominhthanh35-gmail-com-0935053036/ah8h">
+          Đỗ Minh Thành
+         </a>
+         <br>
+          <a href="/ungvien/cokhichetao/hochiminh/">
+           Ứng viên Cơ khí- Chế tạo tại Hồ Chí Minh
+          </a>
+         </br>
+        </div>
+        <div>
+         <a href="/ungvien/uv-nguyen-trung-hieu-trunghieu1111edu-gmail-com-0984028806/bb34">
+          Feg
+         </a>
+         <br>
+          <a href="/ungvien/nhansu/hanoi/">
+           Ứng viên Nhân sự tại Hà Nội
+          </a>
+         </br>
+        </div>
+        <div>
+         <a href="/ungvien/uv-nguyen-thi-trang-ngochuyentrang90-gmail-com-0977876326/w3e">
+          Nguyễn Thị Trang
+         </a>
+         <br>
+          <a href="/ungvien/bienphiendich/hanoi/">
+           Ứng viên Biên- Phiên dịch tại Hà Nội
+          </a>
+         </br>
+        </div>
+        <div>
+         <a href="/ungvien/uv-le-thi-huong-lan-lan-letran2612-gmail-com-0909-136-938/as6l">
+          Lê Thị Hương Lan
+         </a>
+         <br>
+          <a href="/ungvien/ketoankiemtoan/hochiminh/">
+           Ứng viên Kế toán- Kiểm toán tại Hồ Chí Minh
+          </a>
+         </br>
+        </div>
+        <div>
+         <a href="/ungvien/uv-tran-hung-minh-hungminhphp-gmail-com-0908796813/alvu">
+          Trần Hùng Minh
+         </a>
+         <br>
+          <a href="/ungvien/itphanmem/hochiminh/">
+           Ứng viên IT phần mềm tại Hồ Chí Minh
+          </a>
+         </br>
+        </div>
+        <div>
+         <a href="/ungvien/uv-pham-van-dac-phamdac81-gmail-com-0988083886/axql">
+          Phạm Văn Đạc
+         </a>
+         <br>
+          <a href="/ungvien/ketoankiemtoan/hochiminh/">
+           Ứng viên Kế toán- Kiểm toán tại Hồ Chí Minh
+          </a>
+         </br>
+        </div>
+        <div>
+         <a href="/ungvien/uv-ngo-duc-anh-nda0312-gmail-com-0906283389/ah7j">
+          Ngô Đức Anh
+         </a>
+         <br>
+          <a href="/ungvien/cokhichetao/hanoi/">
+           Ứng viên Cơ khí- Chế tạo tại Hà Nội
+          </a>
+         </br>
+        </div>
+        <div>
+         <a href="/ungvien/uv-nguyen-trung-hieu-thuonghieu30032011-yahoo-com-vn-09-87-87-07-53/ag6v">
+          Nguyễn Trung Hiếu
+         </a>
+         <br>
+          <a href="/ungvien/banhang/hochiminh/">
+           Ứng viên Bán hàng tại Hồ Chí Minh
+          </a>
+         </br>
+        </div>
+        <div>
+         <a href="/ungvien/uv-tran-thi-thuy-hao-thuyhao2511-gmail-com-0937405740/akot">
+          Trần Thị Thúy Hảo
+         </a>
+         <br>
+          <a href="/ungvien/hanhchinhvanphong/hochiminh/">
+           Ứng viên Hành chính- Văn phòng tại Hồ Chí Minh
+          </a>
+         </br>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="main-left">
+    <div id="brcum">
+     <a href="/">
+      Vieclam.tv
+     </a>
+     &gt;
+     <a href="/ungvien/uv-pham-dang-dien-phamdangdien-53ckct-gmail-com-01674903404/bp1n">
+      Thông tin ứng viên Phạm Đăng Diện
+     </a>
+    </div>
+    <div class="title-h1">
+     <h1>
+      Thông tin ứng viên Phạm Đăng Diện
+     </h1>
+     <p class="ma-uv">
+      <b>
+       Mã số: bp1n
+      </b>
+     </p>
+    </div>
+    <div class="title-danhsach">
+     <h6>
+      Thông tin cá nhân
+     </h6>
+    </div>
+    <div class="dk-info uv-chitiet">
+     <table style="width:100%;border:1px solid #cccccc;border-collapse:collapse">
+      <tr>
+       <td class="left">
+        <b>
+         Họ và tên:
+        </b>
+       </td>
+       <td class="">
+        Phạm Đăng Diện
+       </td>
+      </tr>
+      <tr>
+       <td class="left">
+        <b>
+         Ngày sinh:
+        </b>
+       </td>
+       <td class="">
+        22/12/1993
+       </td>
+      </tr>
+      <tr>
+       <td class="left">
+        <b>
+         Giới tính:
+        </b>
+       </td>
+       <td class="">
+        Nam
+       </td>
+      </tr>
+      <tr class="avata-uv">
+       <td colspan="3">
+        <img alt="Ảnh đại diện Phạm Đăng Diện" src="/images/ungvien/bp1n.jpg"/>
+       </td>
+      </tr>
+     </table>
+    </div>
+    <div class="space5px">
+    </div>
+    <div class="title-danhsach">
+     <h6>
+      Trình độ học vấn
+     </h6>
+    </div>
+    <div class="viecchitiet">
+     <table cellpadding="5" cellspacing="1" class="view-rutgon">
+      <tr class="postd4">
+       <td>
+        <b>
+         Trình độ học vấn:
+        </b>
+       </td>
+       <td class="br-L">
+        <span class="success">
+         Đại học
+        </span>
+       </td>
+       <td>
+        <b>
+         Tốt nghiệp năm:
+        </b>
+       </td>
+       <td class="br-L">
+        2015
+       </td>
+      </tr>
+      <tr class="postd4">
+       <td>
+        <b>
+         Ngành học:
+        </b>
+       </td>
+       <td class="br-L">
+        Cơ khí chế tạo máy
+       </td>
+       <td>
+        <b>
+         Tốt nghiệp loại:
+        </b>
+       </td>
+       <td class="br-L">
+        Khá
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <b>
+         Tối nghiệp tại trừờng:
+        </b>
+       </td>
+       <td>
+        Đại Học Nha Trang (Nha Trang )
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <b>
+         Ngoại ngữ:
+        </b>
+       </td>
+       <td>
+        English - Tiếng Anh
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <b>
+         Trình độ tin học:
+        </b>
+       </td>
+       <td>
+        A
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <b>
+         Bằng/chứng chỉ khác:
+        </b>
+       </td>
+       <td>
+        chứng chỉ lập trình gia công trên Pro E
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <b>
+         Số lượt xem:
+        </b>
+       </td>
+       <td>
+        186
+       </td>
+      </tr>
+     </table>
+    </div>
+    <div class="title-danhsach">
+     <h6>
+      Kinh nghiệm làm việc
+     </h6>
+    </div>
+    <div class="viecchitiet">
+     <table cellpadding="5" cellspacing="1" class="view-rutgon">
+      <tr>
+       <td>
+        <b>
+         Số năm kinh nghiệm:
+        </b>
+       </td>
+       <td>
+        Chưa có KN
+       </td>
+      </tr>
+      <tr class="mota-cv">
+       <td>
+        <b>
+         Kinh nghiệm
+        </b>
+       </td>
+       <td>
+        thực tập tại công ty TNHH Nam Phương Xanh
+       </td>
+      </tr>
+      <tr class="mota-cv">
+       <td>
+        <b>
+         Các kỹ năng:
+        </b>
+       </td>
+       <td>
+        <p>
+         Chăm chỉ
+         <br/>
+         kỹ năng làm việc nhóm
+         <br/>
+         nắm bắt công việc tốt
+        </p>
+       </td>
+      </tr>
+     </table>
+    </div>
+    <div class="title-danhsach">
+     <h6>
+      Công việc mong muốn
+     </h6>
+    </div>
+    <div class="viecchitiet">
+     <table cellpadding="5" cellspacing="1" class="view-rutgon">
+      <tr>
+       <td>
+        <b>
+         Vị trí mong muốn:
+        </b>
+       </td>
+       <td>
+        Kỹ sư cơ khí
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <b>
+         Cấp bậc:
+        </b>
+       </td>
+       <td>
+        Kỹ thuật viên/kỹ sư
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <b>
+         Ngành nghề:
+        </b>
+       </td>
+       <td>
+        <a href="/kythuat/">
+         Kỹ thuật
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <b>
+         Hình thức làm việc:
+        </b>
+       </td>
+       <td>
+        Toàn thời gian cố định
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <b>
+         Địa điểm làm việc:
+        </b>
+       </td>
+       <td>
+        <a href="/kythuat/hochiminh/" title="Việc làm Kỹ thuật tại Hồ Chí Minh">
+         Hồ Chí Minh
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <b>
+         Mức lương mong muốn:
+        </b>
+       </td>
+       <td>
+        Thỏa thuận
+       </td>
+      </tr>
+      <tr class="mota-cv">
+       <td>
+        <b>
+         Mục tiêu nghề nghiệp:
+        </b>
+       </td>
+       <td>
+        <p>
+         Thu nhập ổn định
+         <br/>
+         -  Môi trường làm việc thân thiện và chuyên nghiệp
+         <br/>
+         -  Có cơ hội thăng tiến tốt  trong công việc
+        </p>
+       </td>
+      </tr>
+     </table>
+    </div>
+    <div class="space5px">
+    </div>
+    <div class="center">
+     <div class="space5px">
+     </div>
+     <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+     </script>
+     <!-- vieclam.tv 336x280 -->
+     <ins class="adsbygoogle" data-ad-client="ca-pub-2988304919300319" data-ad-slot="2402596014" style="display:inline-block;width:336px;height:280px">
+     </ins>
+     <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+     </script>
+     <div class="space5px">
+     </div>
+    </div>
+    <div class="space5px">
+    </div>
+    <div class="title-danhsach">
+     <h6>
+      Thông tin liên hệ
+     </h6>
+    </div>
+    <div class="viecchitiet">
+     <table cellpadding="5" cellspacing="1" class="view-rutgon">
+      <tr>
+       <td>
+        <b>
+         Tên người liên hệ:
+        </b>
+       </td>
+       <td>
+        Phạm Đăng Diện
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <b>
+         Email:
+        </b>
+       </td>
+       <td>
+        <a href="mailto:phamdangdien.53ckct@gmail.com" rel="nofollow">
+         phamdangdien.53ckct@gmail.com
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <b>
+         Điện thoại:
+        </b>
+       </td>
+       <td>
+        <a href="tel:01674903404" rel="nofollow">
+         01674903404
+        </a>
+       </td>
+      </tr>
+     </table>
+    </div>
+    <div class="space5px">
+    </div>
+    <div class="title-h1">
+     <h2>
+      Ứng viên Kỹ thuật tại Hồ Chí Minh
+     </h2>
+    </div>
+    <div id="box-ungvien">
+     <table class="view-rutgon">
+      <tr class="header-table">
+       <th width="23%">
+        Họ tên
+       </th>
+       <th width="15%">
+        K.nghiệm
+       </th>
+       <th width="12%">
+        Lương
+       </th>
+       <th width="35%">
+        Vị trí mong muốn
+       </th>
+       <th>
+        Địa điểm
+       </th>
+      </tr>
+      <tr>
+       <td>
+        <a href="/ungvien/uv-pham-dang-dien-phamdangdien-53ckct-gmail-com-01674903404/bp1n">
+         Phạm Đăng Diện
+        </a>
+       </td>
+       <td>
+        Chưa có KN
+       </td>
+       <td>
+        Thỏa thuận
+       </td>
+       <td>
+        Kỹ sư cơ khí
+       </td>
+       <td>
+        <a href="/ungvien/kythuat/hochiminh/" title="Ứng viên Kỹ thuật tại Hồ Chí Minh">
+         Hồ Chí Minh
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/ungvien/uv-nguyen-ngoc-tuong-ngoctuong2000-gmail-com-0982320220/af62">
+         Nguyễn Ngọc Tương
+        </a>
+       </td>
+       <td>
+        4 năm
+       </td>
+       <td>
+        Thỏa thuận
+       </td>
+       <td>
+        Engineer
+       </td>
+       <td>
+        <a href="/ungvien/kythuat/hochiminh/" title="Ứng viên Kỹ thuật tại Hồ Chí Minh">
+         Hồ Chí Minh
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/ungvien/uv-vo-dong-dong070-gmail-com-0918643569/andu">
+         Đã Có Việc Làm
+        </a>
+       </td>
+       <td>
+        4 năm
+       </td>
+       <td>
+        5- 7 triệu
+       </td>
+       <td>
+        Kỹ thuật viên thiết bị di động, kỹ sư điện, cơ khí, khí nén, thủy lực
+       </td>
+       <td>
+        <a href="/ungvien/kythuat/hochiminh/" title="Ứng viên Kỹ thuật tại Hồ Chí Minh">
+         Hồ Chí Minh
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/ungvien/uv-ly-hong-chi-hongchily-gmail-com-0903050786/atzb">
+         Lý Hồng Chí
+        </a>
+       </td>
+       <td>
+        3 năm
+       </td>
+       <td>
+        Thỏa thuận
+       </td>
+       <td>
+        Nhân viên kỹ thuật
+       </td>
+       <td>
+        <a href="/ungvien/kythuat/hochiminh/" title="Ứng viên Kỹ thuật tại Hồ Chí Minh">
+         Hồ Chí Minh
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/ungvien/uv-do-van-thang-thang2506hui-gmail-com-01694712732/b0tu">
+         Đỗ Văn Thắng
+        </a>
+       </td>
+       <td>
+        Chưa có KN
+       </td>
+       <td>
+        Thỏa thuận
+       </td>
+       <td>
+        kỹ thuật viên
+       </td>
+       <td>
+        <a href="/ungvien/kythuat/hochiminh/" title="Ứng viên Kỹ thuật tại Hồ Chí Minh">
+         Hồ Chí Minh
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/ungvien/uv-ho-van-duong-hvduong567-gmail-com-01676628526/b0oo">
+         Hồ Văn Dương
+        </a>
+       </td>
+       <td>
+        Dưới 1 năm
+       </td>
+       <td>
+        Thỏa thuận
+       </td>
+       <td>
+        Nhân viên kỹ thuật
+       </td>
+       <td>
+        <a href="/ungvien/kythuat/hochiminh/" title="Ứng viên Kỹ thuật tại Hồ Chí Minh">
+         Hồ Chí Minh
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/ungvien/uv-nguyen-thi-bich-nhi-nhi21694-gmail-com-0997719220/b0mo">
+         Nguyen Thi Bich Nhi
+        </a>
+       </td>
+       <td>
+        Chưa có KN
+       </td>
+       <td>
+        Thỏa thuận
+       </td>
+       <td>
+        nhân viên
+       </td>
+       <td>
+        <a href="/ungvien/kythuat/hochiminh/" title="Ứng viên Kỹ thuật tại Hồ Chí Minh">
+         Hồ Chí Minh
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/ungvien/uv-huynh-thi-hong-hoa-huynhpong2804-gmail-ocm-0979401154/b0jl">
+         Huỳnh Thị Hồng Hoa
+        </a>
+       </td>
+       <td>
+        Chưa có KN
+       </td>
+       <td>
+        5- 7 triệu
+       </td>
+       <td>
+        Kỹ sư kỹ thuật xây dựng
+       </td>
+       <td>
+        <a href="/ungvien/kythuat/hochiminh/" title="Ứng viên Kỹ thuật tại Hồ Chí Minh">
+         Hồ Chí Minh
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/ungvien/uv-luong-nguyen-bao-tran-baotranat1806-gmail-com-0976108719/bzvs">
+         Lương Nguyễn Bảo Trân
+        </a>
+       </td>
+       <td>
+        Chưa có KN
+       </td>
+       <td>
+        5- 7 triệu
+       </td>
+       <td>
+        nhân viên an toàn lao động
+       </td>
+       <td>
+        <a href="/ungvien/kythuat/hochiminh/" title="Ứng viên Kỹ thuật tại Hồ Chí Minh">
+         Hồ Chí Minh
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/ungvien/uv-phan-khoa-phankhoa2701-gmail-com-0903692484-01677642599/bz0l">
+         Phan Khoa
+        </a>
+       </td>
+       <td>
+        Trên 5 năm
+       </td>
+       <td>
+        5- 7 triệu
+       </td>
+       <td>
+        Nhân viên kỹ thuật
+       </td>
+       <td>
+        <a href="/ungvien/kythuat/hochiminh/" title="Ứng viên Kỹ thuật tại Hồ Chí Minh">
+         Hồ Chí Minh
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/ungvien/uv-nguyen-tuan-giang-nguyentuangiang1507-gmail-com-01683547855/bz0q">
+         Nguyễn Tuấn Giang
+        </a>
+       </td>
+       <td>
+        1 năm
+       </td>
+       <td>
+        5- 7 triệu
+       </td>
+       <td>
+        Nhân viên kĩ thuật sản xuất
+       </td>
+       <td>
+        <a href="/ungvien/kythuat/hochiminh/" title="Ứng viên Kỹ thuật tại Hồ Chí Minh">
+         Hồ Chí Minh
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/ungvien/uv-le-khanh-khanhusa99-yahoo-com-vn-0909608591/bz0n">
+         Lê Khanh
+        </a>
+       </td>
+       <td>
+        Trên 5 năm
+       </td>
+       <td>
+        5- 7 triệu
+       </td>
+       <td>
+        Nhân viên kỹ thuật
+       </td>
+       <td>
+        <a href="/ungvien/kythuat/hochiminh/" title="Ứng viên Kỹ thuật tại Hồ Chí Minh">
+         Hồ Chí Minh
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/ungvien/uv-truong-vu-dien-vudienkt-gmail-com-0987-669-020/bz0p">
+         Trương Vũ Điền
+        </a>
+       </td>
+       <td>
+        Trên 5 năm
+       </td>
+       <td>
+        7- 10 triệu
+       </td>
+       <td>
+        Kỷ sư điện
+       </td>
+       <td>
+        <a href="/ungvien/kythuat/hochiminh/" title="Ứng viên Kỹ thuật tại Hồ Chí Minh">
+         Hồ Chí Minh
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/ungvien/uv-ho-sy-quy-anhquyctn2-gmail-com-0963235820/bzml">
+         Hồ Sỹ Quý
+        </a>
+       </td>
+       <td>
+        2 năm
+       </td>
+       <td>
+        7- 10 triệu
+       </td>
+       <td>
+        Nhân viên kỹ thuật cấp thoát nước
+       </td>
+       <td>
+        <a href="/ungvien/kythuat/hochiminh/" title="Ứng viên Kỹ thuật tại Hồ Chí Minh">
+         Hồ Chí Minh
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/ungvien/uv-trinh-gia-hung-bd-giahung-gmail-com-0976995059/bzmk">
+         Trịnh Gia Hùng
+        </a>
+       </td>
+       <td>
+        Trên 5 năm
+       </td>
+       <td>
+        5- 7 triệu
+       </td>
+       <td>
+        Đội trưởng kỹ thuật
+       </td>
+       <td>
+        <a href="/ungvien/kythuat/hochiminh/" title="Ứng viên Kỹ thuật tại Hồ Chí Minh">
+         Hồ Chí Minh
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/ungvien/uv-le-loc-tienloc854-gmail-com-01692010854/bzq9">
+         Lê Lộc
+        </a>
+       </td>
+       <td>
+        Chưa có KN
+       </td>
+       <td>
+        3- 5 triệu
+       </td>
+       <td>
+        Kỹ sư môi trường
+       </td>
+       <td>
+        <a href="/ungvien/kythuat/hochiminh/" title="Ứng viên Kỹ thuật tại Hồ Chí Minh">
+         Hồ Chí Minh
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/ungvien/uv-duong-thi-my-han-hanmy106-gmail-com-01228850184/bzmm">
+         Dương Thị Mỹ Hân
+        </a>
+       </td>
+       <td>
+        1 năm
+       </td>
+       <td>
+        5- 7 triệu
+       </td>
+       <td>
+        Nhân viên kiểm tra chất lượng
+       </td>
+       <td>
+        <a href="/ungvien/kythuat/hochiminh/" title="Ứng viên Kỹ thuật tại Hồ Chí Minh">
+         Hồ Chí Minh
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/ungvien/uv-do-minh-cuong-dominhcuong81-gmail-com-01260669035/by8z">
+         Đỗ Minh Cường
+        </a>
+       </td>
+       <td>
+        Trên 5 năm
+       </td>
+       <td>
+        5- 7 triệu
+       </td>
+       <td>
+        Nhân viên KCS ngành thiết bị trường học
+       </td>
+       <td>
+        <a href="/ungvien/kythuat/hochiminh/" title="Ứng viên Kỹ thuật tại Hồ Chí Minh">
+         Hồ Chí Minh
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/ungvien/uv-dinh-van-huu-nguyenhung1c1291-gmail-com-0993898773/by4b">
+         Đinh Văn Hưu
+        </a>
+       </td>
+       <td>
+        Dưới 1 năm
+       </td>
+       <td>
+        5- 7 triệu
+       </td>
+       <td>
+        Nhân viên kỹ thuật
+       </td>
+       <td>
+        <a href="/ungvien/kythuat/hochiminh/" title="Ứng viên Kỹ thuật tại Hồ Chí Minh">
+         Hồ Chí Minh
+        </a>
+       </td>
+      </tr>
+      <tr>
+       <td>
+        <a href="/ungvien/uv-pham-tri-phamtri7887-yahoo-com-vn-0988586654/bzeo">
+         Phạm Trí
+        </a>
+       </td>
+       <td>
+        2 năm
+       </td>
+       <td>
+        Thỏa thuận
+       </td>
+       <td>
+        Nhân viên kỹ thuật
+       </td>
+       <td>
+        <a href="/ungvien/kythuat/hochiminh/" title="Ứng viên Kỹ thuật tại Hồ Chí Minh">
+         Hồ Chí Minh
+        </a>
+       </td>
+      </tr>
+     </table>
+    </div>
+    <div class="space5px" style="float:none">
+    </div>
+    <div class="title-h1">
+     <h2>
+      Về ứng viên Phạm Đăng Diện
+     </h2>
+    </div>
+    <div class="tip-info">
+     Thông tin về ứng viên Phạm Đăng Diện đã được vieclam.tv kiểm duyệt. Trường hợp thông tin về Phạm Đăng Diện không chính xác hoặc đã thay đổi, vui lòng báo cho vieclam.tv hoặc đăng nhập tài khoản ứng viên Phạm Đăng Diện để thay đổi lại.
+     <br>
+      <b>
+       Từ khóa tìm kiếm
+      </b>
+      <br>
+       Thông tin đầy đủ của ứng viên Phạm Đăng Diện: ngày sinh, email phamdangdien.53ckct@gmail.com, điện thoại: 01674903404, lý lịch, cv, trường học... Phạm Đăng Diện Kỹ thuật. Thong tin day du cua ung vien Pham Dang Dien: ngay sinh, email phamdangdien.53ckct@gmail.com, dien thoai: 01674903404, ly lich, cv, truong hoc... Pham Dang Dien Ky thuat.
+      </br>
+     </br>
+    </div>
+    <div class="space5px">
+    </div>
+   </div>
+   <div id="main-right">
+    <div class="tip-trick">
+     <nav>
+      <ul>
+       <div class="title-h1">
+        Việc làm Kỹ thuật tại Hồ Chí Minh
+       </div>
+       <li>
+        <a href="/kythuat/hochiminh/gh1q" title="Big C Việt Nam">
+         Nhân Viên Kỹ Thuật (bình Dương, Dĩ An)
+        </a>
+       </li>
+       <li>
+        <a href="/kythuat/hochiminh/ghnt" title="Công Ty CP Phần Mềm ASIA">
+         Nhân Viên Kỹ Thuật Lập Trình
+        </a>
+       </li>
+       <li>
+        <a href="/kythuat/hochiminh/ghhk" title="Cong Ty TNHH LD PowerBowl VN">
+         Nhân Viên Bảo Trì Làm Việc ở TT Bowling Gò Vấp
+        </a>
+       </li>
+       <li>
+        <a href="/kythuat/hochiminh/gg04" title="CÔNG TY CP TƯ VẤN THƯƠNG MẠI XÂY DỰNG MÊ KÔNG">
+         Tuyển thợ thi công điện tại Sân bay
+        </a>
+       </li>
+       <li>
+        <a href="/kythuat/hochiminh/ggzu" title="Công Ty CP Phần Mềm ASIA">
+         Nhân Viên Kỹ Thuật Lập Trình. Net
+        </a>
+       </li>
+       <li>
+        <a href="/kythuat/hochiminh/ggvm" title="Công ty  Cổ phần liên kết con người">
+         [vnp- HCM] CTV Media
+        </a>
+       </li>
+       <li>
+        <a href="/kythuat/hochiminh/ggqb" title="Công Ty CP Phần Mềm ASIA">
+         Nhân Viên Kỹ Thuật Lập Trình. Net
+        </a>
+       </li>
+       <li>
+        <a href="/kythuat/hochiminh/f663" title="CÔNG TY TNHH TIÊN PHONG AUTO">
+         Nhân Viên Bảo Trì
+        </a>
+       </li>
+       <li>
+        <a href="/kythuat/hochiminh/ggfn" title="Công ty TNHH Napo">
+         Kỹ Thuật Lắp Đặt Camera Quan Sát
+        </a>
+       </li>
+       <li>
+        <a href="/kythuat/hochiminh/fbis" title="Công ty TNHH Napo">
+         Nhân viên kỹ thuật Camera
+        </a>
+       </li>
+       <li>
+        <a href="/kythuat/hochiminh/gf9d" title="Công Ty Cổ Phần BOOK A BEE">
+         Nhân Viên Thiết Kế Web
+        </a>
+       </li>
+       <li>
+        <a href="/kythuat/hochiminh/gf7n" title="DNTN SẢN XUẤT NGỌC LAN">
+         Nhân Viên Phòng Kĩ Thuật Dây Cáp Điện (kcs / QC)
+        </a>
+       </li>
+       <li>
+        <a href="/kythuat/hochiminh/fi2n" title="CTY CP TM DV XNK VINH LINH">
+         Kỹ Thuật Máy Photocopy
+        </a>
+       </li>
+       <li>
+        <a href="/kythuat/hochiminh/dzk5" title="Công ty TNHH TM và DV Mực in Toàn Cát">
+         Nhân viên Kỹ thuật và Giao hàng Mực In
+        </a>
+       </li>
+       <li>
+        <a href="/kythuat/hochiminh/gfur" title="Công ty TNHH Thương Mại Dịch Vụ Nguyên Việt">
+         Nhân Viên Kỹ Thuật
+        </a>
+       </li>
+       <li>
+        <a href="/kythuat/hochiminh/gfhg" title="CÔNG TY CP TƯ VẤN THƯƠNG MẠI XÂY DỰNG MÊ KÔNG">
+         Tuyển Kỹ sư giám sát điện
+        </a>
+       </li>
+       <li>
+        <a href="/kythuat/hochiminh/gfhd" title="Công ty TNHH TM KT Đức Thành Đạt">
+         Nhân Viên Kỹ Thuật
+        </a>
+       </li>
+       <li>
+        <a href="/kythuat/hochiminh/gfbf" title="Công Ty TNHH Công Nghệ Và Tư Vấn Điểm Nhấn">
+         Công Ty TNHH Công Nghệ Và Tư Vấn Điểm Nhấn Tuyển Nhân Viên Kỹ Thuật Camera
+        </a>
+       </li>
+       <li>
+        <a href="/kythuat/hochiminh/ge1b" title="TNHH Thiết kế quảng cáo- trang trí nội thất  AD&amp;Look">
+         Thợ Mộc
+        </a>
+       </li>
+       <li>
+        <a href="/kythuat/hochiminh/ge08" title="TNHH Thiết kế quảng cáo- trang trí nội thất  AD&amp;Look">
+         Giám Sát Thi Công Quảng Cáo
+        </a>
+       </li>
+      </ul>
+     </nav>
+    </div>
+    <div class="tip-trick">
+     <div class="title-h1">
+      Bí quyết tuyển dụng
+     </div>
+     <nav>
+      <ul>
+       <li>
+        <a class="bold" href="/tracnghiem/">
+         Trắc nghiệm việc làm
+         <img alt="Mới" height="16" src="http://s.tainhaccho.vn/images/hinhnen/cate/new.gif" width="20"/>
+        </a>
+       </li>
+       <li>
+        <a class="bold" href="/biquyetvieclam/">
+         Dành cho ứng viên
+        </a>
+       </li>
+       <li>
+        <a class="bold" href="/biquyettuyendung/">
+         Dành cho nhà tuyển dụng
+        </a>
+       </li>
+       <li>
+        <a class="bold" href="/camnangvieclam/">
+         Cẩm nang việc làm
+        </a>
+       </li>
+      </ul>
+     </nav>
+    </div>
+    <div class="space5px">
+    </div>
+    <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+    </script>
+    <!-- viec lam 300x600 -->
+    <ins class="adsbygoogle" data-ad-client="ca-pub-2988304919300319" data-ad-slot="6715912013" style="display:inline-block;width:300px;height:600px">
+    </ins>
+    <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    <!-- /* popup ambient
+*/ -->
+    <script type="text/javascript">
+     var _ase = _ase || [];
+ 	/* load placement for account: xskt, site: http://vieclam.tv, zone size : 300x250 */
+ 	_ase.push(["1442458411","1442458431"]);
+    </script>
+    <script src="http://static.gammaplatform.com/js/ad-exchange.js" type="text/javascript">
+    </script>
+    <noscript>
+     <iframe frameborder="0" height="250" scrolling="no" src="http://tag.gammaplatform.com/adx/noscript/zid_1442458431/wid_1442458411/" width="300">
+     </iframe>
+    </noscript>
+    <div class="space5px">
+    </div>
+   </div>
+  </div>
+  <footer id="footer">
+   <div id="footer-top">
+    <div class="box-footer-main">
+     <strong>
+      Việc làm theo ngành nghề:
+     </strong>
+     <br>
+      <nav>
+       <ul>
+        <li>
+         <a href="/ketoankiemtoan/">
+          Kế toán- Kiểm toán
+         </a>
+        </li>
+        <li>
+         <a href="/xaydung/">
+          Xây dựng
+         </a>
+        </li>
+        <li>
+         <a href="/hanhchinhvanphong/">
+          Hành chính- Văn phòng
+         </a>
+        </li>
+        <li>
+         <a href="/nhanvienkinhdoanh/">
+          Nhân viên kinh doanh
+         </a>
+        </li>
+        <li>
+         <a href="/banhang/">
+          Bán hàng
+         </a>
+        </li>
+        <li>
+         <a href="/diendientu/">
+          Điện- Điện tử
+         </a>
+        </li>
+        <li>
+         <a href="/cokhichetao/">
+          Cơ khí- Chế tạo
+         </a>
+        </li>
+        <li>
+         <a href="/nhansu/">
+          Nhân sự
+         </a>
+        </li>
+       </ul>
+      </nav>
+     </br>
+    </div>
+    <div class="box-footer-main">
+     <strong>
+      Việc làm theo địa điểm:
+     </strong>
+     <br>
+      <nav id="dia-diem">
+       <ul>
+        <li>
+         <a href="/hanoi/">
+          Hà Nội
+         </a>
+         <a class="right" href="/hochiminh/">
+          Hồ Chí Minh
+         </a>
+        </li>
+        <li>
+         <a href="/binhduong/">
+          Bình Dương
+         </a>
+         <a class="right" href="/danang/">
+          Đà Nẵng
+         </a>
+        </li>
+        <li>
+         <a href="/dongnai/">
+          Đồng Nai
+         </a>
+         <a class="right" href="/haiphong/">
+          Hải Phòng
+         </a>
+        </li>
+        <li>
+         <a href="/bacninh/">
+          Bắc Ninh
+         </a>
+         <a class="right" href="/hungyen/">
+          Hưng Yên
+         </a>
+        </li>
+        <li>
+         <a href="/longan/">
+          Long An
+         </a>
+         <a class="right" href="/bariavungtau/">
+          Bà Rịa- Vũng Tàu
+         </a>
+        </li>
+        <li>
+         <a href="/haiduong/">
+          Hải Dương
+         </a>
+         <a class="right" href="/khac/">
+          Khác
+         </a>
+        </li>
+        <li>
+         <a href="/vinhphuc/">
+          Vĩnh Phúc
+         </a>
+         <a class="right" href="/quangninh/">
+          Quảng Ninh
+         </a>
+        </li>
+        <li>
+         <a href="/thanhhoa/">
+          Thanh Hóa
+         </a>
+         <a class="right" href="/bacgiang/">
+          Bắc Giang
+         </a>
+        </li>
+       </ul>
+      </nav>
+     </br>
+    </div>
+    <div class="box-footer-main">
+     <strong>
+      Kết nối với vieclam.tv
+     </strong>
+     <br>
+      <div class="social-nw">
+      </div>
+      <p class="connect-text">
+       Hãy kết nỗi với chúng tôi để được chia sẻ và cập nhật các thông tin mới nhất
+      </p>
+     </br>
+    </div>
+   </div>
+   <div class="menu-footer">
+    <nav id="menuFooter">
+     <ul>
+      <li>
+       <a href="/">
+        Copyright (C) vieclam.tv 2014
+       </a>
+      </li>
+     </ul>
+    </nav>
+   </div>
+  </footer>
+  <script type="text/javascript">
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-5334604-14','auto');ga('send','pageview');
+  </script>
+  <script src="http://s.tainhaccho.vn/js/vieclam.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   function changePage(e) {
+var t=document.getElementById("purl").value;
+if (e!="1") {
+window.location.href=t+"page"+e
+}else{
+window.location.href=t
+}
+}
+$('#shownav').click(function () {
+$('body').toggleClass("menushow");
+return false;
+});
+(function () {
+var customSelects = document.querySelectorAll(".custom-dropdown__select");
+for (var i = 0; i < customSelects.length; i++) {
+if (customSelects[i].hasAttribute("disabled")) {
+customSelects[i].parentNode.className += "custom-dropdown--disabled";
+}
+}
+})()
+  </script>
+  <script src="http://s1.zzz.vn/sc?id=48&amp;block=1&amp;target=_blank&amp;charset=UTF-8" type="text/javascript">
+  </script>
+ </body>
+</html>
