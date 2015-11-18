@@ -1,18 +1,7 @@
 # -*- coding: utf-8 -*-
-import urllib2, urllib, codecs
+import urllib2, urllib, requests
+import codecs, datetime
 from bs4 import BeautifulSoup
-#ham loai bo cac ki tu dinh dang in khoi string
-def handleString(string):
-	flag = 0
-	try:
-		for i in xrange(len(string)):
-			if string[i] in ['\n','\t','\r']:
-				i += 1
-				flag = i
-		string = string[flag:]
-	except:
-		string = " "
-	return string
 
 #tra ve html dang soup san sang cho viec crawl
 def readSoup(url):
@@ -22,3 +11,8 @@ def readSoup(url):
     response = urllib2.urlopen(request)
     soup = BeautifulSoup(response, 'lxml')
     return soup
+
+def saveLog(url):
+	f = codecs.open("log.txt", "a", "utf-8")
+	time = datetime.datetime.now()
+	f.write(time+"\t"+url)
